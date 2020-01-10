@@ -1,0 +1,22 @@
+{
+  "name": "mojon",
+  "version": "1.0.0",
+  "description": "mojon module",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo-jon/npmStudy.git"
+  },
+  "keywords": [
+    "mojon"
+  ],
+  "author": "mojon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mo-jon/npmStudy/issues"
+  },
+  "homepage": "https://github.com/Mo-jon/npmStudy#readme"
+}
